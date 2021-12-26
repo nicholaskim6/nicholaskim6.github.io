@@ -4,4 +4,4 @@ title: Sordid
 permalink: /sordid/
 ---
 
-for rivian
+for rivians
