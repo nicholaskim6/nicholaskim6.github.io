@@ -33,8 +33,10 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - about.markdown
-  - sordid.markdown
+  - main_pages/about.markdown
+  - main_pages/interests.markdown
+  - main_pages/writings.markdown
+  - main_pages/random.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
