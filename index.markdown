@@ -7,7 +7,7 @@ layout: page
 <br />
 Thanks for stopping by. I'm currently working as a software engineer at [Pahdo Labs](https://www.pahdolabs.com/), where we're making an anime-themed MMORPG with an emphasis on user-generated content. Aside from engineering, I'm also working on the game's music direction and lore vision. Before leaving to join Pahdo, I worked as a quantitative trader at [DRW](https://drw.com/) on a fixed-income/macro prop desk (non-market-making).
 <br /><br />
-I graduated from Princeton in 2021, where I mostly studied applied math and philosophy. I'm deeply passionate about music, gaming, philosophy, and anything creative. I'm also interested in better understanding what creates meaningful connections between people.
+I graduated from Princeton in 2021, where I mostly studied applied math and philosophy. I'm passionate about music, gaming, philosophy, and anything creative. I'm also interested in better understanding what creates meaningful connections between people.
 <br /><br />
 This website is intended to be more of a "get to know me" thing than a resume/project showcase, so stuff here will mostly be on the informal side (and probably contain a lot of irrelevant rambling).
 <br /><br />
@@ -29,7 +29,7 @@ Work History:
 
 **Summer 2019, 2020**: [XR Trading](https://www.xrtrading.com/) (NYC)
 
-&ndash; Equity options market making. Coded/researched using Python, C#, MySQL, and OneTick. Returned for a second summer after Belvedere Trading cancelled their internship.
+&ndash; Equity options market making. Coded/researched using Python, C#, MySQL, and OneTick. Returned for a second summer after Belvedere Trading cancelled their internships.
 
 **July - October 2021**: [DRW](https://drw.com/) (Greenwich, CT)
 
@@ -46,8 +46,7 @@ Things I'd like to do at some point:
 
 &ndash; Make a good original story (be it in film, writing, a game, etc.)
 
-&ndash; Get really good at something
-<br /><br />
+<br />
 
 Social/Contact:
 

@@ -6,19 +6,16 @@ permalink: /interests/
 
 # Music
 
-Music is one of my greatest sources of enjoyment. I like listening to all kinds, though I generally prefer softer things. I particularly enjoy classical, japanese (particularly soundtracks), indie, rock, and rnb. In no particular order, some of my favorite artists are - Chopin, Rachmaninoff, Liszt, Scriabin, Lyadov, Masashi Hamauzu, Yu-Peng Chen, The Symposium, ELO, Earth Wind and Fire, Daniel Caesar, and Kanye.
+Music is one of my greatest sources of enjoyment. I like listening to all kinds, though I generally prefer more melodic/softer things. I particularly enjoy classical, japanese (especially soundtracks), indie, rock, and rnb. Some favorite artists include Chopin, Rachmaninoff, Liszt, Masashi Hamauzu, Yu-Peng Chen, Lamp, The Symposium, and Kanye West.
 
 <br />
 
-My formal background is mainly in violin. I also briefly took lessons in piano, and lately I've been trying to branch out a bit and learn bass-guitar. I've been a member of the [National Youth Orchestra](https://www.carnegiehall.org/Education/Programs/National-Youth-Ensembles/NYO-USA/NYO-USA-2016) and the [Princeton University Orchestra](https://orchestra.princeton.edu/).
+My formal background is mainly in violin. I've been a member of the [National Youth Orchestra](https://www.carnegiehall.org/Education/Programs/National-Youth-Ensembles/NYO-USA/NYO-USA-2016) and the [Princeton University Orchestra](https://orchestra.princeton.edu/), and I also briefly took lessons in piano.
 
 <br />
 
-I also enjoy composing, which I took up around a year ago on a whim.
+In my free time, I enjoy writing music. Here are two of my classical-style piano pieces:
 
-<br />
-
-Here are two of my classical-style piano pieces:
 <br />
 
 Prelude No. 2
@@ -67,19 +64,19 @@ OST 3
 <br />
 
 # Gaming
-Gaming is a favorite pasttime of mine. I grew up playing Blizzard classics like Diablo 2 and SC:BW and have been enjoying games ever since. I have a soft spot for any games with open-world, RPG, and/or story-driven elements, and I also enjoy team-focused/social games. In high school and college, I played League of Legends competitively.
+I grew up first playing Blizzard classics like Diablo 2 and SC:BW and have been enjoying games ever since. I have a soft spot for any games with open-world, RPG, and/or story-driven elements. I also enjoy team-focused/strategy games and played League of Legends competitively in high school and college.
 
 <br />
 
-I admire single player games for their narratives, creative worlds, and emotional stories. I admire multiplayer games for their competitive thrill and the energy of esports. Some favorites include Bioshock Infinite, Spec Ops: The Line, Mass Effect 1, Diablo 2, Starcraft 2, Fallout NV, and Dark Souls 3.
+I admire single player games for their narratives, creative worlds, and emotional stories, and multiplayer games for their competitive thrill and social energy. Some favorites include Bioshock Infinite, Spec Ops: The Line, Diablo 2, Starcraft 2, CoH, Fallout NV, and Dark Souls 3.
 
 <br />
 
 # Other
-Anime has a particular place for me. I don't watch too often, but when I do I try to make an occasion out of it and watch something that will have a lasting impact on me. In relation to other media, I'm appreciative of anime's "colorfulness", both literally and figuratively, and enjoy a lot of the culture surrounding it. Some favorites include Evangelion, Vivy Fluorite, and Kuzu no Honkai.
+Anime has a particular place for me. I don't watch too often, but when I do I try to make an occasion out of it and watch something that will have a lasting impact on me. I appreciate anime's colorfulness, both literally and figuratively, and enjoy a lot of the culture surrounding it. Some favorites include Evangelion, Vivy Fluorite, and Kuzu no Honkai.
 
 <br />
 
-Have only gone through a handful, but I've really enjoyed the few classic novels I've read. I also have a passing interest in war (particularly WW2) history. Reading about what soldiers have experienced never fails to put things in perspective.
+As for other things, I've really enjoyed the small handful of classic novels I've read. I also have a passing interest in war (particularly WW2) history. Reading about what soldiers experienced always puts things in perspective for me.
 
 <br />
