@@ -71,7 +71,7 @@ Gaming is a favorite pasttime of mine. I grew up playing Blizzard classics like 
 
 <br />
 
-I admire single player games for their narratives, creative worlds, and emotional stories. I admire multiplayer games for their competitive thrill and the contagious energy of esports. Some of my favorite are Bioshock Infinite, Spec Ops: The Line, Mass Effect 1, Diablo 2, Starcraft 2, and Dark Souls 3.
+I admire single player games for their narratives, creative worlds, and emotional stories. I admire multiplayer games for their competitive thrill and the energy of esports. Some of favorites are Bioshock Infinite, Spec Ops: The Line, Mass Effect 1, Diablo 2, Starcraft 2, and Dark Souls 3.
 
 <br />
 
