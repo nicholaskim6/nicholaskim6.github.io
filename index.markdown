@@ -5,7 +5,7 @@
 layout: page
 ---
 <br />
-Thanks for stopping by. I'm currently working as a software engineer at [Pahdo Labs](https://www.pahdolabs.com/), where we're making an anime-themed MMORPG with an emphasis on user-generated content. Aside from engineering, I'm also working on the game's music direction and lore vision. Before leaving to join Pahdo, I worked as a quantitative trader at [DRW](https://drw.com/) on a fixed-income/macro prop desk (non-market-making).
+Thanks for stopping by. I'm currently working as a software engineer at [Pahdo Labs](https://www.pahdolabs.com/), where we're making an anime-themed MMORPG with an emphasis on user-generated content. Aside from engineering, I'm also working on the game's music direction and lore vision. Before leaving to join Pahdo, I worked as a quantitative trader at [DRW](https://drw.com/) on a fixed-income/macro prop desk.
 <br /><br />
 I graduated from Princeton in 2021, where I mostly studied applied math and philosophy. I'm passionate about music, gaming, philosophy, and anything creative. I'm also interested in better understanding what creates meaningful connections between people.
 <br /><br />

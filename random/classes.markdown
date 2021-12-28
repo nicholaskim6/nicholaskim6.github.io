@@ -29,7 +29,7 @@ Here's a list of all the classes I took, ordered roughly by a combination of how
 
 -MAT 201: Multivariable Calculus
 
--ORF474: High-Frequency Trading
+-ORF 474: High-Frequency Trading
 
 -Thesis
 

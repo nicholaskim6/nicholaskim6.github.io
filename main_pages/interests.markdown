@@ -6,7 +6,7 @@ permalink: /interests/
 
 # Music
 
-Music is one of my greatest sources of enjoyment. I like listening to all kinds, though I generally prefer more melodic/softer things. I particularly enjoy classical, japanese (especially soundtracks), indie, rock, and rnb. Some favorite artists include Chopin, Rachmaninoff, Liszt, Masashi Hamauzu, Yu-Peng Chen, Lamp, The Symposium, and Kanye West.
+Music is one of my greatest sources of enjoyment. I like listening to all kinds, though I generally prefer more melodic/softer things. I particularly enjoy classical, japanese (especially soundtracks), indie, rock, and rnb. Some favorite artists include Chopin, Rachmaninoff, Liszt, Scriabin, Masashi Hamauzu, Yu-Peng Chen, Lamp, The Symposium, and Kanye West.
 
 <br />
 
