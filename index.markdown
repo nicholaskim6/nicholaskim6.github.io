@@ -14,9 +14,9 @@ This website is intended to be more of a "get to know me" thing than a resume/pr
 
 ______________________
 <br />
-Currently recommended music (12/26/21):
+Currently recommended music (12/28/21):
 
-&ndash; [Liszt Mephisto Waltz (Lugansky)](https://youtu.be/Cd5xKZjfTqM?t=2905)
+&ndash; [Scriabin Sonata 2 (Lugansky)](https://youtu.be/Cd5xKZjfTqM?t=1588)
 
 &ndash; [Rainbow Summer - Atelier Ryza](https://www.youtube.com/watch?v=T_OMCd4s0S8)
 <br /><br />
