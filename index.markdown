@@ -9,7 +9,7 @@ Thanks for stopping by. I'm currently working as a software engineer at [Pahdo L
 <br /><br />
 I graduated from Princeton in 2021, where I mostly studied applied math and philosophy. I'm passionate about music, gaming, philosophy, and anything creative. I'm also interested in better understanding what creates meaningful connections between people.
 <br /><br />
-This website is intended to be more of a "get to know me" thing than a resume/project showcase, so stuff here will mostly be on the informal side (and probably contain a lot of irrelevant rambling).
+This website is intended to be more of a "get to know me" thing than a resume/project showcase, so stuff here will mostly be on the informal side.
 <br /><br />
 
 ______________________
