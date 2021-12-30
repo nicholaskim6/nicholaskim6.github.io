@@ -9,9 +9,9 @@ Here's a list of all the classes I took, ordered roughly by a combination of how
 
 <br />
 
--MAT 215: Real Analysis (kinda cheesy to put this at the top I'm aware)
-
 -PHI 363: Religion and Scientific Objectivity
+
+-MAT 215: Real Analysis
 
 -ORF 363: Computing and Convex Optimization
 
