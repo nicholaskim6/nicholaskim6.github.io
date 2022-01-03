@@ -5,7 +5,8 @@ permalink: /random/classes
 ---
 <br />
 
-Here's a list of all the classes I took, ordered roughly by a combination of how useful I thought they were and how much I liked them. Note that I wasn't really a fan of Princeton's classes in general, so the majority of these I have a negative opinion towards.
+Here's a list of all the classes I took, ordered roughly by a combination of how useful I thought they were and how much I liked them. Note that I wasn't really a fan of Princeton's classes in general, and I wouldn't say I ever felt
+any one class was all that great.
 
 <br />
 
@@ -80,6 +81,13 @@ Here's a list of all the classes I took, ordered roughly by a combination of how
 -ECO 361: Accounting
 
 
+--------------------------
+<br />
+My brief thoughts on each-
+
 <br />
 
-My brief thoughts on each class in chronological order. (todo)
+**Fall 2017**
+
+MAT 201: Multivariable Calculus
+-

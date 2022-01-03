@@ -6,7 +6,7 @@ permalink: /interests/
 
 # Music
 
-Music is one of my greatest sources of enjoyment. I like listening to all kinds, though I generally prefer more melodic/softer things. I particularly enjoy classical, japanese (especially soundtracks), indie, rock, and rnb. Some favorite artists include Chopin, Rachmaninoff, Liszt, Scriabin, Masashi Hamauzu, Yu-Peng Chen, Lamp, The Symposium, and Kanye West.
+Music is one of my greatest sources of enjoyment. The depth of raw, personal, and emotional experience it can give is like nothing else I know of. I like listening to all kinds, though I generally prefer more melodic things. I particularly enjoy classical, japanese (especially soundtracks), indie, rock, and rnb. Some favorite artists include Chopin, Rachmaninoff, Liszt, Scriabin, Masashi Hamauzu, Yu-Peng Chen, Lamp, The Symposium, and Kanye West.
 
 <br />
 
@@ -68,11 +68,19 @@ I grew up first playing Blizzard classics like Diablo 2 and SC:BW and have been 
 
 <br />
 
-I like single player games for their narratives, creative worlds, and emotional stories, and multiplayer games for their competitive thrill and social energy. Some favorites include Bioshock Infinite, Spec Ops: The Line, Diablo 2, Starcraft 2, CoH, Fallout NV, and Dark Souls 3.
+I admire single player games for their narratives, creative worlds, and emotional stories, and enjoy how the agency in them makes for a really special feeling of immersion and connection to characters. Multiplayer games I like for their competitive thrill and social energy. The communal spirit around them and the lows and highs of competition are always inspiring to be a part of.
+
+<br />
+
+Some favorite titles include Bioshock Infinite, Spec Ops: The Line, Diablo 2, Starcraft 2, CoH, Fallout NV, and Dark Souls 3.
 
 <br />
 
 # Other
-I also really enjoy anime/anime-related things. I don't watch too often, but when I do I try to make an occasion out of it and watch something that'll have lasting impact. Some favorites include Evangelion, Vivy Fluorite, and Kuzu no Honkai. I've also really enjoyed the small handful of classic novels I've read and have a passing interest in war history (reading about what soldiers experienced always puts things in perspective for me). At some point I'd like to learn how to draw and 2d/3d animate.
+I think anime is a wonderfully unique medium/style. It has a colorfulness, both literally and figuratively, that I find in short supply elsewhere. I don't watch too often, but when I do I try to make an occasion out of it and watch something that'll have lasting impact. Some favorites include Evangelion, Vivy Fluorite, and Kuzu no Honkai. 
+
+<br />
+
+As for other things, I've really enjoyed the (very) small handful of classic novels I've read and also have a passing interest in war history (reading about what soldiers experienced always puts things in perspective). At some point I'd like to learn how to draw and 2d/3d animate.
 
 <br />
