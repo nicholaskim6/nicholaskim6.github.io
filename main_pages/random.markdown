@@ -8,6 +8,4 @@ permalink: /random/
 
 -[Listen to these](/random/listen_to_these)
 
--Rankings
-
--Reading
+-[Reading](/random/reading)

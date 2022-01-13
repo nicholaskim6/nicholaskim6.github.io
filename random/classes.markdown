@@ -6,7 +6,7 @@ permalink: /random/classes
 <br />
 
 Here's a list of all the classes I took, ordered roughly by a combination of how useful I thought they were and how much I liked them. Note that I wasn't really a fan of Princeton's classes in general, and I wouldn't say I ever felt
-any one class was all that great.
+any one class was all that great. Ignoring the credit requirement for graduation, I'd probably have opted to take only the classes above ORF 309.
 
 <br />
 
@@ -90,4 +90,27 @@ My brief thoughts on each-
 **Fall 2017**
 
 MAT 201: Multivariable Calculus
--
+
+A fairly standard class. Nothing particularly amazing, but it was a clean, well-run course that wasn't nearly as disorganized, tedious, or poorly run as a lot of other courses. Looking back I should've paid way more attention than I did. I was still very much in a high school mindset of taking classes to get good grades rather than for the understanding they could give and the foundations they could build for future learning. Now, I really believe that solidly learning all the ideas in multi and linalg from an intuitive, conceptual level (which is not the same as getting a good grade) is one of the best things you can do for yourself as a first year.
+
+<br />
+
+PHY 103: Physics Mechanics
+
+Another standard class. Not much to say, but the labs were a bit tedious and mandatory lecture attendance was a drag. There were also weekly graded quizzes that took up way too much time to study for every sunday. Wasn't taught in too conceptual of a way, and while not the easiest class, it boiled down mostly to rote memorization. I also just found the subject itself kind of dry. Thinking about physical objects and friction was far from exciting, though maybe I'd see it in a more interesting light now - there's something vaguely noble to me about understanding something as "basic" and tangible as mechanics. But at least then, would've very gladly skipped this if I could've with my AP mech credit (for some reason Princeton doesn't let you skip mech or E&M separately, only both or none, and I unfortunately never took E&M in high school).
+
+<br />
+
+FRS 129: Financial Ethics
+
+A fun though slightly sleepy class. It was essentially moral philosophy but in the context of finance. We spent a lot of time trying to understand the purpose of various financial institutions and the obligations industry professionals had to clients based on what they knew. We got to meet some cool people and visited nyc to meet Paul Volcker, which was pretty neat. Ultimately I found it a pretty grounded class, albeit hand-wavy with many of the arguments we'd read/debated with each other. The best part was just hearing our lecturer's stories.
+
+<br />
+
+COS 126: Intro to Computer Science
+
+A nice class if there were one. It's maybe slightly too theoretical for what most people looking to do CS are interested in (for instance, CS50 has you make a concrete, usable project at the end instead of another very specific tool), but in any case I thought it was well run, organized, and interesting enough. Each assignment was unique, had fun end results, and taught a fundamental programming idea. I also found the emphasis on theory later on (completeness, turing machines, etc.) to be a nice touch.
+
+
+
+
