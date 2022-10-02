@@ -4,8 +4,8 @@ title: Random
 permalink: /random/
 ---
 
--[Classes and thoughts](/random/classes)
+-[Reading](/random/reading)
 
 -[Listen to these](/random/listen_to_these)
 
--[Reading](/random/reading)
+-[Classes and thoughts](/random/classes)
