@@ -5,36 +5,37 @@
 layout: page
 ---
 <br />
-Thanks for stopping by. I'm currently working as a software engineer at [Pahdo Labs](https://www.pahdolabs.com/), where we're making an anime-themed MMORPG with an emphasis on user-generated content. Aside from engineering, I'm also working on the game's music direction and lore vision. Before leaving to join Pahdo, I worked as a quantitative trader at [DRW](https://drw.com/) on a fixed-income/macro prop desk.
+Thanks for stopping by. I'm currently working as a software engineer at [Pahdo Labs](https://www.crunchbase.com/organization/pahdo-labs), where we're making an anime-themed MMORPG with an emphasis on user-generated content. Aside from engineering, I'm also working on the game's music direction and lore vision.
 <br /><br />
 I graduated from Princeton in 2021, where I mostly studied applied math and philosophy. I'm passionate about music, gaming, philosophy, and anything creative. I'm also interested in better understanding what creates meaningful connections between people.
 <br /><br />
 
 ______________________
 <br />
-Currently recommended music (12/28/21):
+Currently recommended music (10/2/22):
 
-&ndash; [Scriabin Sonata 2 (Lugansky)](https://youtu.be/Cd5xKZjfTqM?t=1588)
+&ndash; [FP 105 - Poulenc](https://www.youtube.com/watch?v=p-4OAi7pvOE)
 
-&ndash; [Rainbow Summer - Atelier Ryza](https://www.youtube.com/watch?v=T_OMCd4s0S8)
+&ndash; [Meant to Be - Tower of Fantasy OST](https://www.youtube.com/watch?v=KVbO5CVi_0k)
 <br /><br />
 
 Work History:
 
-**Summer 2018**: [QARASoft](https://www.qara.ai/) (Seoul)
-
-&ndash; Software engineering for a robo-advisor startup in Seoul, Korea. Did some app development and NLP research.  
-
-**Summer 2019, 2020**: [XR Trading](https://www.xrtrading.com/) (NYC)
-
-&ndash; Equity options market making. Coded/researched using Python, C#, MySQL, and OneTick. Returned for a second summer after Belvedere Trading cancelled their internships.
+**Nov 2021 - Present**: [Pahdo Labs](https://www.pahdolabs.com/) (NYC)
 
 **July - October 2021**: [DRW](https://drw.com/) (Greenwich, CT)
 
 &ndash; Macro prop trading. Mostly worked on research/learned about fixed income derivatives during my stay. Resigned to join Pahdo Labs.
 
-**Nov 2021 - Present**: [Pahdo Labs](https://www.pahdolabs.com/) (NYC)
-<br /><br />
+**Summer 2019, 2020**: [XR Trading](https://www.xrtrading.com/) (NYC)
+
+&ndash; Equity options market making. Coded/researched using Python, C#, MySQL, and OneTick. Returned for a second summer after Belvedere Trading cancelled their internships.
+
+**Summer 2018**: [QARASoft](https://www.qara.ai/) (Seoul)
+
+&ndash; Software engineering for a robo-advisor startup in Seoul, Korea. Did some app development and NLP research.  
+
+<br />
 
 Things I'd like to do at some point:
 
