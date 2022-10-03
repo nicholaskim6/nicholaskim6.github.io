@@ -49,15 +49,15 @@ Some stories in this collection are clear 9-9.5 material. Chekhov paints very "s
 
 -[The War of Art](https://www.goodreads.com/book/show/1319.The_War_of_Art): 8.3
 <br />
-A little simple, overly descriptive, and mystical at times. Sometimes it's quite hard to parse what's even being talekd about, and some ideas seem straight up contradictory. In terms of "literary quality", I wouldn't rate it so high. But however it managed to do so, I think about its message almost every day now. There's a voice in my head that says, "Resistance", and I know I have to beat it.
+A little simple, overly descriptive, and mystical at times. Sometimes it's quite hard to parse what's even being talked about, and some ideas seem straight up contradictory. In terms of "literary quality", I wouldn't rate it so high. But however it managed to do so, I think about its message almost every day now. There's a voice in my head that says, "Resistance", and I know I have to beat it.
 <br /><br/>
 
 -[Principles: Life and Work](https://www.goodreads.com/book/show/34536488-principles): 6.5
 <br />
-I liked this book a lot when I first read it, though I like it less over time. It's a very thoughtful book, but almost too thoughtful and repeptitive at that. To me it's a book that sounds good on paper, but actually seems unlikely to translate to a concrete improvement in whatever the person reading it hopes it'll be able to do.
+I liked this book a lot when I first read it, though I like it less over time. It's a very thoughtful book, but almost too thoughtful and repetetive at that. To me it's a book that sounds good on paper, but actually seems unlikely to translate to a concrete improvement in whatever the person reading it hopes it'll be able to do.
 <br /><br/>
 
 -[The Lessons of History](https://www.goodreads.com/book/show/174713.The_Lessons_of_History): 5
 <br />
-Overinundated with references and grand ideas, though presented at a pretty vague, abstract level and without particularly concrete conclusions/actionable takeaways. Perhaps something you can read if you want to feel some sense of smallness, but beyond that I feel like I didn't learn much or get convinced of anything too novel/useful.
+Overinundated with references and grand ideas, presented without particularly concrete conclusions/actionable takeaways. Perhaps something you can read if you want to feel some sense of smallness, but beyond that I feel like I didn't learn much or get convinced of anything too novel/useful.
 <br /><br/>
